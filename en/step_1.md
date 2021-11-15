@@ -1,59 +1,27 @@
-## Introduction
+## Importing a Unity package
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Open the Unity Hub, make sure that **Projects** is selected from the menu on the left, and then click on **New project**.
 
-### What you will make
+![Projects and New project options shown in Unity hub](images/new_project.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Choose **3D Core** from the next menu, then click the **Create project** button.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![3D Core highlighted in Unity hub](images/3d_core.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![Create project button shown in Unity hub](images/create_project.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Import your downloaded package
 
-+ A computer or tablet capable of running Scratch 3
+![Assets menu shown with import package and custom package options displayed](images/import_package.png)
 
-### Software
+Select the location of your downloaded package
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![File explorer shown with custome_package.unitypackage displayed](images/choose_custom_package.png)
 
-### Downloads
+Click on the **Import** button, to import all of the package.
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+![Import Unity Package menu shown with the Import button highlighted](images/import_all.png)
 
---- /collapse ---
+You will need to **Reload** your scene to use the imported package.
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![Dialogue box showing the option to Reload the scene](images/reload.png)
