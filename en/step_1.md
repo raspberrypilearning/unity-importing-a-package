@@ -1,5 +1,3 @@
-## Importing a Unity package
-
 Open the Unity Hub, make sure that **Projects** is selected from the menu on the left, and then click on **New project**.
 
 ![Projects and New project options shown in Unity hub](images/new_project.png)
