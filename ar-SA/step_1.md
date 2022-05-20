@@ -1,11 +1,11 @@
-Import your downloaded package.
+استيراد الحُزْمَة التي تم تنزيلها.
 
-![Assets menu shown with Import package and Custom package options displayed.](images/import_package.png)
+![قائمة الأصول المعروضة تظهر مع عرض حُزْمَة الاستيراد وخيارات الحُزْمَة المخصصة.](images/import_package.png)
 
-Select the location of your downloaded package.
+حدد موقع الحُزْمَة التي تم تنزيلها.
 
-![File explorer shown with 'custome_package.unitypackage' displayed.](images/choose_custom_package.png)
+![يظهر مستكشف الملفات موضح "حُزْمَة_ موحدة_ مخصصة معروضة.](images/choose_custom_package.png)
 
-Click on the **Import** button to import all of the package.
+انقر فوق الزر **استيراد** لاستيراد كل الحُزْمَة.
 
-![Import Unity Package menu shown with the Import button highlighted.](images/import_all.png)
+![تظهر قائمة "استيراد حُزْمَة الوحدة" مع تمييز الزر "استيراد".](images/import_all.png)
