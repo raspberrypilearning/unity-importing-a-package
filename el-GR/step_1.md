@@ -1,4 +1,4 @@
-Import your downloaded package.
+Κάνε εισαγωγή του πακέτου που έχεις κατεβάσει.
 
 ![Assets menu shown with Import package and Custom package options displayed.](images/import_package.png)
 
