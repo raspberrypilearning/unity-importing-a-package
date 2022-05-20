@@ -1,11 +1,11 @@
-Import your downloaded package.
+Importeer het gedownloade pakket.
 
-![Assets menu shown with Import package and Custom package options displayed.](images/import_package.png)
+![Het menu elementen wordt weergegeven met de opties pakket importeren en aangepast.](images/import_package.png)
 
-Select the location of your downloaded package.
+Selecteer de locatie van het gedownloade pakket.
 
-![File explorer shown with 'custome_package.unitypackage' displayed.](images/choose_custom_package.png)
+![File explorer wordt weergegeven met 'custome_package.unitypackage'.](images/choose_custom_package.png)
 
-Click on the **Import** button to import all of the package.
+Klik op de knop **Import** om het hele pakket te importeren.
 
-![Import Unity Package menu shown with the Import button highlighted.](images/import_all.png)
+![Het menu Import Unity Package (Unity-pakket importeren) wordt weergegeven met de knop Import (importeren) gemarkeerd.](images/import_all.png)
