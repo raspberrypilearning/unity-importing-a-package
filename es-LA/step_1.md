@@ -1,11 +1,11 @@
-Import your downloaded package.
+Importa el paquete que descargaste.
 
-![Assets menu shown with Import package and Custom package options displayed.](images/import_package.png)
+![Se muestra el menú Assets con las opciones Importar paquete (Import package) y Paquete personalizado (Custom package).](images/import_package.png)
 
-Select the location of your downloaded package.
+Selecciona la ubicación del paquete que descargaste.
 
-![File explorer shown with 'custome_package.unitypackage' displayed.](images/choose_custom_package.png)
+![Se muestra el explorador de archivos con 'custome_package.unitypackage'.](images/choose_custom_package.png)
 
-Click on the **Import** button to import all of the package.
+Haz clic en el botón **Import** para importar todo el paquete.
 
-![Import Unity Package menu shown with the Import button highlighted.](images/import_all.png)
+![Se muestra el menú Importar paquete de Unity (Import Unity Package) con el botón Import resaltado.](images/import_all.png)
